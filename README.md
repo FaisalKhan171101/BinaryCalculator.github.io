@@ -6,3 +6,5 @@ Perform Addition, substraction, Multiplication, Devision of Binary/Decimal/Octal
 <img src="https://user-images.githubusercontent.com/87291732/210175346-8588b99b-62e4-46d4-8fe3-c040640f7bd9.png" width="350" title="hover text">
 
 ### Demo: https://faisalkhan171101.github.io/BinaryCalculator.github.io/
+
+© 2022 Faisal Khan, Presidency University
